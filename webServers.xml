@@ -1,0 +1,25 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5197bc85-2eab-4249-93a8-443f520ffffc" name="root@production" url="http://85.143.178.216">
+        <fileTransfer host="85.143.178.216" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="64b29789-c676-418c-8a8f-6f6e782e8dfc" name="vistro@production" url="http://85.143.178.216">
+        <fileTransfer host="85.143.178.216" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/var/www/vistro/data" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABIAnu2QsPzOtsQ2LkH8kaHknETRqPOYZhxmLDVhEEButf5F3p20Kgq6pNHT4LBSKSZE1lwi4Vh0nrIUzYDXmQ7EE5eq0sGOdP5/eWHRXNgLU2tcXOhe8AUrsnYE/1y2dmN5ua1RchkrD+nokULAudBLQdI4OrioB6vU/3cAXvdLzQRP58I8w2idaAwV/SPpyKy7SpvHn9u0GulOJOLj3bxxpIt5mAMzApJhU46CkVcjQmExjwjt3KxE3dMz6Es9QnybEaAATeNLdVMj0LH1DWldHeRD74SJIkUK5bG8uyXv7sIr2UHl2S+KSBGzS/fccWosoijghjgyprk4n3qs1Fj9ZAPYblj5K6RUYN9FjOZyaxzoaWNu2oxqUCBiIzn4FlH2Ca9mt3ugk+CnqUe9cYcSk=</data>
+  </component>
+</application>
