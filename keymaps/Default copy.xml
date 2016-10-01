@@ -5,6 +5,9 @@
   <action id="Git.Tag">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="PublishGroup.SyncLocalVsRemote">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
