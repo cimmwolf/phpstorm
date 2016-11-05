@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="9556856e-2e66-497f-9410-098432f9ea4a" name="root@static" url="http://5.200.55.73">
+        <fileTransfer host="5.200.55.73" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/etc/nginx" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="5197bc85-2eab-4249-93a8-443f520ffffc" name="root@production" url="http://85.143.178.216">
         <fileTransfer host="85.143.178.216" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
@@ -20,6 +28,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABIG8kr21rwufjZjNPbBpR5KIqjGse6Ip4iDrmfYSuX7zeUVZTLmictF8vfTq9dU2lWfW1827kaVqMY7+B6Tab81hQGpH08VXm0hVczlnmKjWeft/ToXi1ytx1gQrKhif8CLxMTZxjJiHCPIjGe4e5Kp/rFJYYDs50jhe2yzsZ5xrCCK2ouKoAdh7w6/R86/29xMJhpfTYRS5sei4iY5iThtanLYG8Jr78GrHGBBxkhWKm74IfelmkgolfzL8WdFDmUcHL0lb3koiLSlBydudP2cJz2eDPUYnLVJPzWUoq8Q4BJ6db7muZkuI1/rlW4YxJoQWmThy1q1UhJOcg9baDowACAzFy/ZEmukTbEZej+4G1CmmTkkqafWyfXtc59PoGTBobnI/3Lmmj9ja3sLRJpBw=</data>
+    <data>AAABgPCQfALfYtcLOebzXYMNKryqCafiSTULCYhLkJlVp1SgnbU3kXgd46+Pd+qeFzNBd+c8MA7QXDVGCaNFiUl/VVdNBYs8dPZD79RuUpmOBqMufflXcWpfmOIyx2VGdu+5rnDalolX+ci81dQJGLqYQ4ux1dmeOS/6L3f09olTLy+LSoMRBUSz+Z7Xg5qi7t6ybkbOcv6NBpHSinu5uvY5Chh6yDUAHP20bdalBcBlS+Bvexvt0L5HTUgkkwie5bZT7Pzl9Hh+/TRW8+2SX2Ws2Adg6gXCWCSU28EkWZSL0rG3UQBWyfDx5rngOexHo22Ipo5jObEnAFO29r+yB78r38MBTCCsiKUw8UwCnlMcB+BRy6kbkTKT5L2WCq/hsvtVSmHZ1XeiduKEap5w4DlSd09YDNi2eFXbJE1ZjWtnwgV+N2u1DDY0XWQBWwuyz+ChcEpXnbmOywuSj28bchZB8K/0FRn8DCDIus2/1VoCp5/pT7eE7a2s0uQ34jbCIdNYobXvkjLKgfamgR3gEWovHYk=</data>
   </component>
 </application>
