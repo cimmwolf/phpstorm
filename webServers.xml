@@ -25,9 +25,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="620e7ee5-c974-4c92-afca-f69c8b607852" name="root@chopacho" url="http://185.158.152.58">
+        <fileTransfer host="185.158.152.58" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/etc/nginx" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABgPCQfALfYtcLOebzXYMNKryqCafiSTULCYhLkJlVp1SgnbU3kXgd46+Pd+qeFzNBd+c8MA7QXDVGCaNFiUl/VVdNBYs8dPZD79RuUpmOBqMufflXcWpfmOIyx2VGdu+5rnDalolX+ci81dQJGLqYQ4ux1dmeOS/6L3f09olTLy+LSoMRBUSz+Z7Xg5qi7t6ybkbOcv6NBpHSinu5uvY5Chh6yDUAHP20bdalBcBlS+Bvexvt0L5HTUgkkwie5bZT7Pzl9Hh+/TRW8+2SX2Ws2Adg6gXCWCSU28EkWZSL0rG3UQBWyfDx5rngOexHo22Ipo5jObEnAFO29r+yB78r38MBTCCsiKUw8UwCnlMcB+BRy6kbkTKT5L2WCq/hsvtVSmHZ1XeiduKEap5w4DlSd09YDNi2eFXbJE1ZjWtnwgV+N2u1DDY0XWQBWwuyz+ChcEpXnbmOywuSj28bchZB8K/0FRn8DCDIus2/1VoCp5/pT7eE7a2s0uQ34jbCIdNYobXvkjLKgfamgR3gEWovHYk=</data>
+    <data>AAAB8Leuh1ZtqP89yIi9cY/1xuoCIB60+pNh/6RyCjXOe4XfulqJYp2TGvS6ECwTvvAh1/DgCW+Jh3ZjNNzhQsIA4+x0IECY4m0/lyDe0KqfYcv9BCruE6Fmt0K6XvnBOT1ONK6caOrVQQFPHeyk75JVl2xf39dggyfCcaF9dGuxiqgi37Gy6OEIu976e5rlGCqiVZMPC7ulq16NwOMNcpl1luUuKo4L72xPQIaqmZazQSKB1Xl5mRNPwrP+cv0p5+5oaU/ZCpW/b+4FECJ4/CHGzZ+B4YlZwzZzNnZg4FmqV30nkLSUVUod3jppzIZHJYuq+0FXHVYlKSD0vrgiS3QxU+FiJVftz8s5fX9N8TH7Ba+/iqGmnSabwdPjODZSIeygNx67/+mZgeQ9kXKVEkoZ0ko99/oq8do5xo9gf6uzq5JOdDJ5b8ESJzNtDpbyCmuZON6xoZ1/6uZciM7U7hDEfRUms5a8qS7DbKk6pDpVusKqxwEcLeUQNlk8UZHoIXrbiZcABVbMnc7EAZL9bIguo0C2ErcMRMo9LmfXPSnN8WJR0UsgU83Oa5XZlMyjSDcf4MKuycCMZGv/Ws0mDpcsHIaYQaA0uVKislxbJ81RwX4kFW4RzPimiHZ54PhtknNdECgoUYzMJje5+8+PdMmHiEiCkg3Y2vzKnhQx7xTFxq7n</data>
   </component>
 </application>
