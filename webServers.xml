@@ -33,9 +33,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="fbea3351-f25a-4db8-a81c-b3fa5f355467" name="root@isp" url="http://188.227.18.151">
+        <fileTransfer host="188.227.18.151" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/etc/nginx" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAB8J1YZD8X4RCphZy6N6G8JqPCuPSFplmeyTHQRNcetnPhVxuhmlw9rqylUT5xEnWzLoHGFN1UNL9rJrScZlGqKvA0/Cnp16sWVBI9/p5SzTkvGZmm2/OVn0YW/kFAbEeGf5Wr7IPSZQN76X5Yvbe2UehABkguUP2Wz2roFxVeyvWNZBAHIfcyUvwG7VFcr1WvLaijTWpwvd6OhDpIzoGXowanCX/XKmkqjkeTtckXwLU+JexDf7zIYqPNOZlIzPRilAluXIsBnq3e6yqBCacTKUXsKHDdHp0Zp+FaUga1MS6PTzoJZLQ5Ju2sBHZh96SOdefXczoia6cFUA8mbbneKuY/I+alCrPd6VDZTg2XAcVoONww2zJFvLubYdtykaFryiq27wefmVQ9LR+zmgNuK+3BoT/EF90Nlv4Yk2CfVbefSLc/BT3h0jfjZKB1DyDk4G3y9vmYwIqWWIAuXBPC7976ECApfEmJ0o8JLJyPG1R6We3vILxlWH5J+GwNljT6Vv3ZwIQNzVHBIRiaeIGG64lHA/6wquilXRMZk8uigYh8hQl04wgWJzygkl/HmUnyIPlXzEXrGaDG3pHD/EomnKZ7ae71I88lsh0ZAS6fKk9b7dgtmI32QsFuF+p41EX9aQkcQ8c8ub72tEYLEe2vMztfDL2hkKbf0RiCEaIxnI7/</data>
+    <data>AAACYL4MPQqIrnOHaqF+0TNlvyLg5DA6ONLSLg2TWvNLZW1icQ6gRposbgyD2f6oL5ya8fQLDUhs9ignzEEylmoEsUJwj+c4S8MJLlONzMtK3BU1WZRC8jiyuGJVnUTxuMYoPJCxi26MAzdHx/wnxXWsAVuyLK9yE7dsJLjeZZ9/roPZ2qVFf72Wwa0bpGDmFE0a8mBQQcrklnuBf1FheqIRwsYkN8OSK9h7/X6M4gLsCSvw28Q5LRGBveZxYcq7jl2onckXMcbxFRVx64EaCUcoy2Q6ice2exPL5rCx7M1py6wCbpW8MUxozieiZc6Eqep9MrVk6C1KUC8RBooxvL4ckoNvyXbcq9hpivQ9rlQBIMqyr+e0zq7MM3RH9zcGMoPlz8Uld2wN0rIAwcNGdZBiM6wgS9sNNzc7IsI5cQyld5rpkU8opQxCBh9vap2kNRq+7j5dKbCypqbG6qF0f/3CJZ1YlBImqNIIaxO+6B1mJX6POjXpUqNPF9Hy+Ec1yEFPbPRDyoPq97YSgbd8u+Pybk/W9TwsMuE9t7z/+blaKVLyK4jnmg3WqVOZSnPBNK8kZxYidRLgcUC6Mn5arhiZV9kx+KaaZSpmfLyZP5ujF/k0BSwDVj5EdX8A/8i86soIZcnJyBsUb3bCBe1+I9V6+4Lajee/4s2hnqMFF4fsqIDAqZZaMV1pAAw9jQnNGjahcb2eNro51V16WWkHpj503acqS68ZXOPHixIPy0kRzhcvdGGuR4s7a8PLtA8SJwpiTnlu7Y6lTEv79zEkVkYcic4FC+IR0vPNrBTQIS6q+60MiLhru2UZTjYMHd69w1aJeA==</data>
   </component>
 </application>
