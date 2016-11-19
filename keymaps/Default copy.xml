@@ -29,6 +29,9 @@
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantDestroyAction">
+    <keyboard-shortcut first-keystroke="alt v" second-keystroke="d" />
+  </action>
   <action id="com.jetbrains.plugins.vagrant.actions.VagrantSuspendAction">
     <keyboard-shortcut first-keystroke="alt v" second-keystroke="s" />
   </action>
