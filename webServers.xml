@@ -17,14 +17,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="64b29789-c676-418c-8a8f-6f6e782e8dfc" name="vistro@production" url="http://85.143.178.216">
-        <fileTransfer host="85.143.178.216" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/var/www/vistro/data" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="620e7ee5-c974-4c92-afca-f69c8b607852" name="root@chopacho" url="http://185.158.152.58">
         <fileTransfer host="185.158.152.58" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/etc/nginx" accessType="SFTP" keyPair="true">
           <advancedOptions>
