@@ -1005,6 +1005,7 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="6ffbf1dd-73e5-46b3-a3d4-df42f73dcaed" load_method="CUSTOM_LOADER" bootstrap_file_path="/vagrant/protected/tests/bootstrap.php" configuration_file_path="/vagrant/protected/tests/phpunit.xml" custom_loader_path="/vagrant/vendor/autoload.php" phpunit_phar_path="" use_bootstrap_file="true" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="a9fe5eaa-d5be-4172-b5d7-fa5a0af2a0ca" load_method="CUSTOM_LOADER" bootstrap_file_path="/vagrant/protected/tests/bootstrap.php" configuration_file_path="/vagrant/protected/tests/phpunit.xml" custom_loader_path="/vagrant/vendor/autoload.php" phpunit_phar_path="" use_bootstrap_file="true" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
