@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="66ad42bc-8f63-42d8-b8f0-b81f7c2a882e" name="backupadm@backupspace" url="http://pluto.backupspace.ru">
+        <fileTransfer host="pluto.backupspace.ru" port="2226" rootFolder="/home/backupadm" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2226" />
+        </fileTransfer>
+      </webServer>
       <webServer id="8641960b-19a5-48aa-9db6-15a11bdb627c" name="backupadm@backupace" url="http://pluto.backupspace.ru">
         <fileTransfer host="pluto.backupspace.ru" port="2226" accessType="SFTP">
           <advancedOptions>
