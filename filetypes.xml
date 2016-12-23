@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
