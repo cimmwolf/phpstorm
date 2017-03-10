@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="Quotes" value="«$SELECTION$»" description="Surround with «»" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
