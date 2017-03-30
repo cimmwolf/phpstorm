@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="620e7ee5-c974-4c92-afca-f69c8b607852" name="root@chopacho" url="http://185.158.152.58">
-        <fileTransfer host="185.158.152.58" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/etc/nginx" accessType="SFTP" keyPair="true">
+        <fileTransfer host="185.158.152.58" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/var/log/nginx" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
