@@ -25,14 +25,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="fbea3351-f25a-4db8-a81c-b3fa5f355467" name="root@isp" url="http://188.227.18.151">
-        <fileTransfer host="188.227.18.151" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/etc/nginx" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="438e7dd2-30ed-4791-8d03-cf16e11296ef" name="root@dynamic" url="http://5.200.53.6">
         <fileTransfer host="5.200.53.6" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/etc/nginx" accessType="SFTP" keyPair="true">
           <advancedOptions>
