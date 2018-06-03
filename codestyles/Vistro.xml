@@ -6,6 +6,7 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
