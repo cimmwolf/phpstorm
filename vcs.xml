@@ -14,6 +14,10 @@
           <option name="url" value="git@bitbucket.org:vistro/eventstud.ru.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:vistro/duelfencing.ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Denis\Projects" />
