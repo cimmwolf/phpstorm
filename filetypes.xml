@@ -8,6 +8,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="my_known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hello-1" type="PLAIN_TEXT" />
