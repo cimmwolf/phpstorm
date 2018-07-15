@@ -66,6 +66,10 @@
           <option name="url" value="git@bitbucket.org:vistro/fondaero.ru.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cimmwolf/seed-yii" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Denis\Projects" />
