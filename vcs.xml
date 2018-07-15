@@ -35,8 +35,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="cimmwolf" />
+          <option name="url" value="git@bitbucket.org:vistro/kasok.ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:vistro/server-config.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
