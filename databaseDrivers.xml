@@ -42,6 +42,27 @@
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="45974aed-db86-4716-9a53-658f64787d40" name="database driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:{file::identifier.sqlite}?" />
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.20.1.1" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <property name="enable_load_extension" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.16.1/sqlite-jdbc-3.16.1.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.16.1/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.9.jar</url>
+      </library>
+    </driver>
     <driver id="sqlite.xerial">
       <artifact name="Xerial SQLiteJDBC" use="true" version="3.20.1.1" />
       <option name="auto-sync" value="true" />
