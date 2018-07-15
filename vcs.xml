@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/cimmwolf/seed.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cimmwolf/seed-yii.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Denis\Projects\Z-i" />
