@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8503384-be72-4956-8543-b331ce3c5ca4" name="Depreg" url="http://188.227.16.41">
+        <fileTransfer host="188.227.16.41" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
