@@ -5,6 +5,7 @@
       <mapping pattern="la" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="keys" type="PLAIN_TEXT" />
+      <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="my_known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
