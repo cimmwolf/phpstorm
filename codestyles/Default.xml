@@ -2,4 +2,7 @@
   <CssCodeStyleSettings>
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+  </PHPCodeStyleSettings>
 </code_scheme>
