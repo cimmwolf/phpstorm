@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Git.CreateNewTag">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
