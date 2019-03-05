@@ -41,14 +41,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="36b9adfa-ee8d-4390-89a9-cc903b518145" name="Production" url="http://duelfencing.ru">
-        <fileTransfer host="duelfencing.ru" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" rootFolder="/var/www/duelfencing.ru/production/current" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
