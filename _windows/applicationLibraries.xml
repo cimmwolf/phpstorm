@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="recorder" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_mattdiamond_Recorderjs_08e7abd9_dist_recorder.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_mattdiamond_Recorderjs_08e7abd9_dist_recorder.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
