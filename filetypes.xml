@@ -14,6 +14,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hello-1" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
+      <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
