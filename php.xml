@@ -7,13 +7,13 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\Program Files\PHP\php.exe" id="4e2778b0-8f17-4db4-8bfd-8efe9bbece09" name="PHP 7.0" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4e2778b0-8f17-4db4-8bfd-8efe9bbece09" name="PHP 7.2" home="C:\Program Files\PHP\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.0">
-        <phpinfo binary_type="PHP" php_cgi="C:\Program Files\PHP\php-cgi.exe" php_cli="C:\Program Files\PHP\php.exe" path_separator=";" version="7.0.31">
+      <interpreter name="PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="C:\Program Files\PHP\php-cgi.exe" php_cli="C:\Program Files\PHP\php.exe" path_separator=";" version="7.2.16">
           <additional_php_ini />
           <configuration_file>C:\Program Files\PHP\php.ini</configuration_file>
           <configuration_options>
@@ -36,19 +36,20 @@
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
+            <extension name="grpc" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
+            <extension name="readline" />
             <extension name="session" />
             <extension name="sqlite3" />
             <extension name="standard" />
