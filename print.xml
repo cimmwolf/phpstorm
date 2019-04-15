@@ -1,5 +1,7 @@
 <application>
   <component name="PrintSettings">
     <option name="printScope" value="1" />
+    <option name="PAPER_SIZE" value="A5" />
+    <option name="SYNTAX_PRINTING" value="false" />
   </component>
 </application>
