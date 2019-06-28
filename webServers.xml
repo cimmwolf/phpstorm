@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9c0dbc31-fce8-4805-ab77-be1241a799fc" name="Z_Static_U18" url="http://5.200.47.16">
+        <fileTransfer host="5.200.47.16" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
