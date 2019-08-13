@@ -11,5 +11,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="ru" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_intl@1.2.5_locale-data_jsonp_ru.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_intl@1.2.5_locale-data_jsonp_ru.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
