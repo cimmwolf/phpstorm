@@ -82,6 +82,16 @@
         <section>
           <rule>
             <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>ready</NAME>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
               <METHOD>true</METHOD>
             </match>
             <order>BY_NAME</order>
