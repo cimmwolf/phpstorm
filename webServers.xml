@@ -17,14 +17,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="22ac022d-008b-48b9-84e9-afd1d520ee25" name="Z_Static" url="http://5.200.55.73">
-        <fileTransfer host="5.200.55.73" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="561fc2a8-ce6b-4ba3-ade9-bd31b40cb2cc" name="Z_Dynamic" url="http://5.200.53.6">
         <fileTransfer host="5.200.53.6" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
@@ -41,7 +33,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="9c0dbc31-fce8-4805-ab77-be1241a799fc" name="Z_Static_U18" url="http://5.200.47.16">
+      <webServer id="9c0dbc31-fce8-4805-ab77-be1241a799fc" name="Z_Static" url="http://5.200.47.16">
         <fileTransfer host="5.200.47.16" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
