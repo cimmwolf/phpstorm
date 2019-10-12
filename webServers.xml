@@ -9,7 +9,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="a8503384-be72-4956-8543-b331ce3c5ca4" name="Z_Depreg" url="http://188.227.16.41">
+      <webServer id="a8503384-be72-4956-8543-b331ce3c5ca4" name="Z_Depreg_old" url="http://188.227.16.41">
         <fileTransfer host="188.227.16.41" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -41,7 +41,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="f2b6f431-48a0-409b-8c04-5e90a5f7099c" name="Z_Depreg_M" url="http://78.140.221.41">
+      <webServer id="f2b6f431-48a0-409b-8c04-5e90a5f7099c" name="Z_Depreg" url="http://78.140.221.41">
         <fileTransfer host="78.140.221.41" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
