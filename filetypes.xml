@@ -23,6 +23,7 @@
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="side" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
