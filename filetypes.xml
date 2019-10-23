@@ -14,9 +14,11 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="la" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd_payment_admin" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hello-1" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
