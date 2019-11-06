@@ -9,14 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="a8503384-be72-4956-8543-b331ce3c5ca4" name="Z_Depreg_old" url="http://188.227.16.41">
-        <fileTransfer host="188.227.16.41" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="561fc2a8-ce6b-4ba3-ade9-bd31b40cb2cc" name="Z_Dynamic" url="http://5.200.53.6">
         <fileTransfer host="5.200.53.6" port="22" privateKey="C:\Users\cimmw\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>

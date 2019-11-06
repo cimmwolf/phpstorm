@@ -6,7 +6,6 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="_c73c65fe7a816723abbe2b9d3d86c98d" type="PLAIN_TEXT" />
       <mapping pattern="keys" type="PLAIN_TEXT" />
       <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
@@ -20,6 +19,7 @@
       <mapping pattern="hello-1" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
+      <mapping pattern="_c73c65fe7a816723abbe2b9d3d86c98d" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
@@ -28,13 +28,13 @@
       <mapping ext="side" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="error_log" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="pd3" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
