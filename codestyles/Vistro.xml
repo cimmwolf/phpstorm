@@ -2,6 +2,7 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <CssCodeStyleSettings>
+    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
