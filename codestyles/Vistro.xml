@@ -32,7 +32,7 @@
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="1" />
-      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="1" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
@@ -40,7 +40,7 @@
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="1" />
-      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="1" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
@@ -48,7 +48,7 @@
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="1" />
-      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="1" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
@@ -129,7 +129,7 @@
   <codeStyleSettings language="LESS">
     <indentOptions>
       <option name="INDENT_SIZE" value="1" />
-      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="1" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
@@ -150,7 +150,7 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="INDENT_SIZE" value="1" />
-      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="1" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
@@ -218,7 +218,7 @@
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="INDENT_SIZE" value="1" />
-      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="1" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
