@@ -14,6 +14,9 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
   </JSCodeStyleSettings>
+  <LessCodeStyleSettings>
+    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+  </LessCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
@@ -32,7 +35,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="1" />
       <option name="TAB_SIZE" value="1" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
@@ -45,8 +47,10 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="TAB_SIZE" value="1" />
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
     <arrangement>
       <rules>
@@ -124,7 +128,10 @@
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
+      <option name="INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="TAB_SIZE" value="1" />
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
@@ -210,7 +217,10 @@
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
+      <option name="INDENT_SIZE" value="1" />
+      <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="TAB_SIZE" value="1" />
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
