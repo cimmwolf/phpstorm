@@ -82,9 +82,13 @@
           <option name="url" value="https://cimmwolf@bitbucket.org/vistro/kilodjoul.ru.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:vistro/conventus-front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\cimmw\Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/Conventus.pro" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
